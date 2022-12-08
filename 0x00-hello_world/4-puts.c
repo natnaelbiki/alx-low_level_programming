@@ -1,10 +1,8 @@
 #include<stdio.h>
 #include<string.h>
-
-
 /**
  *
- * *main - my main function
+ * *main - main function
  *
  * *
  *
@@ -13,8 +11,6 @@
  * *Return: return 0
  *
  * */
-
-
 int main(void)
 {
 	char text[60];
