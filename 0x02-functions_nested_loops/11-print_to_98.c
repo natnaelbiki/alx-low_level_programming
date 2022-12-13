@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include "main.h"
 /**
  * print to 98 - a program to print numbers up to 98
