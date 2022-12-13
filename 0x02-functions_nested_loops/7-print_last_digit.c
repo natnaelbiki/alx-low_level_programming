@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * print_last_digit - function that prints the last digit of a number
- * Return: returns the last digit
- * Description: function that prints the last digit of a numbe
+ * print_last_digit: function that prints the last digit of a number
  * @n number to bw checked
+ * Description: function that prints the last digit of a number
+ * Return: returns the last digit
  */
 int print_last_digit(int n)
 {

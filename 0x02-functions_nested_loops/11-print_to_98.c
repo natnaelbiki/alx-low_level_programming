@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * print_to_98 - a program to print numbers up to 98
- * Return: no return
- * Description: a function that prints all natural numbers from n to 98
+ * print_to_98: a program to print numbers up to 98
  * @n - starting number
+ * Description: a function that prints all natural numbers from n to 98
+ * Return: no return
  */
 void print_to_98(int n)
 {

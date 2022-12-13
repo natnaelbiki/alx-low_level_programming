@@ -1,9 +1,9 @@
 #include "main.h"
 /**
  * _abs: computes absolute value of number
- * Return: returns the abs value
+ * @i: value to be calculated
  * Description: program that calculate absolute valuw of a number
- * i - value to be calculated
+ * Return: returns the abs value
  */
 int _abs(int i)
 {
