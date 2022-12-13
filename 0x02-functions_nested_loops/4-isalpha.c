@@ -1,4 +1,4 @@
-#includ "main.h"
+#include "main.h"
 /**
  * _isalpha - checks the value is character or not
  * Return: returns 1 on succeed
