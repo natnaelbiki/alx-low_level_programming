@@ -3,7 +3,7 @@
  * main - program to print alphavet 10 times
  * Return: returns 0
  */
-int main(void)
+void print_alphabet_x10(void)
 {
 	int n, co;
 
