@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * Desc: program to print alphavet 10 times
+ * print_alphabet_x10 - program to print lowercase alphabets 10 times
  * Return: returns 0
+ * Description: a program to print lowercase alphabet 10 times
  */
 void print_alphabet_x10(void)
 {
