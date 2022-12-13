@@ -1,12 +1,12 @@
 #include "main.h"
 /**
- * print_sign: program to print the sign of number
- *
- * Return: returns 0 if 0 1 if positive and -1 if negative
+ * print_sign - program to print the sign of number
+ * 
+ * @n: number to be checked
  *
  * Description: function to check the sign of number
  *
- * @n: number to be checked
+ * Return: returns 0 if 0 1 if positive and -1 if negative
  */
 int print_sign(int n)
 {
