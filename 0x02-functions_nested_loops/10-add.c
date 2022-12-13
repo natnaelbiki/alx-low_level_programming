@@ -1,8 +1,7 @@
 #include "main.h"
 /**
  * add - program to add numbers
- * @a: numbers to be added 
- * @b: numbers to be added
+ * @a, @b: numbers to be added
  * Description: a program to add two numbers and return result
  * Return: returns the sum
  */
