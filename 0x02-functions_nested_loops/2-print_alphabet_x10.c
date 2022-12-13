@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - program to print alphavet 10 times
+ * Desc: program to print alphavet 10 times
  * Return: returns 0
  */
 void print_alphabet_x10(void)
