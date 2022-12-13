@@ -3,6 +3,7 @@
  * _isalpha - checks the value is character or not
  * Return: returns 1 on succeed
  * Description: program to check if the value is numver or not
+ * @c: character to be verified
  */
 int _isalpha(int c)
 {

@@ -3,6 +3,7 @@
  * _islower - program to check capital or not
  * Return: returns 1 if not or 0 if capital
  * Description: program to check character is lower or not
+ * @c: char to be verified
  */
 int _islower(int c)
 {
