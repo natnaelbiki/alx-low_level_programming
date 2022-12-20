@@ -20,4 +20,4 @@ void print_diagonal(int size);
 
 void print_square(int size);
 
-
+void print_number(int n);
