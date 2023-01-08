@@ -5,7 +5,7 @@
  * @y: counter
  * Return: square root
  */
-int compara(int n, int y)
+int comparar(int n, int y)
 {
 	int count = 0;
 
