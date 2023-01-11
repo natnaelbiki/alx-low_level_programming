@@ -55,20 +55,16 @@ int countWords(char *s)
 	}
 	return (words);
 }
-/**                                                                      
- *
- *  * strtow - splits a string to words                                     
- *
- *   * @str: string of words to be split                                     
- *
- *    * Return: double pointer to string                                      
- *
- *     */                                                                      
-
+/**
+ * strtow - splits a string to words
+ * @str: string of words to be split
+ * Return: double pointer to string
+ */
 char **strtow(char *str)                                                 
 {
 	char **ptr;
 	int i, k, len, start, end, j = 0;
+	
 	int words = countWords(str);
 	
 	if (!str || !countWords(str))
@@ -100,4 +96,4 @@ char **strtow(char *str)
 	}
 	ptr[i] = NULL;
 	return (ptr);
-}                   
+}
