@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * array_range - create an array of integers
+ * *array_range - create an array of integers
  * @min: first number in the array
  * @max: largest number in the array
  * Return: pointer to new array, NULL if failed
