@@ -20,7 +20,7 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 		return (NULL);
 	while (i < ar_size)
 	{
-		ar[i] = 0;
+		ar[i] = '0';
 		i++;
 	}
 	return (ar);
