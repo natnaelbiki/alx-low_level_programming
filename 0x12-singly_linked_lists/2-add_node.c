@@ -30,8 +30,8 @@ list_t *add_node(list_t **head, const char *str)
 int _strlen(const char *s)
 {
 	int idx = 0;
-	
+
 	for (; s[idx]; idx++)
-		;
+	;
 	return (idx);
 }
