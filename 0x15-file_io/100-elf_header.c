@@ -108,7 +108,6 @@ void print_version(unsigned char *e_ident)
 		printf("%i\n", e_ident[EI_VERSION]);
 }
 /**
- *
  * print_osabi - prints the OS/ABI of the ELF file
  * @e_ident: a pointer to an array of byte
  * Return: nothing
